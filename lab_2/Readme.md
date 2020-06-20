@@ -2,7 +2,7 @@
 
 ## Схема сети
 
-![alt text](lab_2/network.png)
+![alt text](network.png)
 
 ### Настройка на все роутеры
 ```
