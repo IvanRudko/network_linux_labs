@@ -31,6 +31,9 @@ sudo systemctl start firewalld
 sudo firewall-cmd --add-protocol=ospf --permanent
 sudo firewall-cmd --reload
 sudo firewall-cmd --list-all
+
+![alt text](conf_for_all.png)
+
 ```
 ### Первый роутер (R1)
 ```
