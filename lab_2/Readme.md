@@ -33,7 +33,7 @@ sudo firewall-cmd --reload
 sudo firewall-cmd --list-all
 ```
 
-![alt text](conf_for_all.png)
+![alt text](conf_for_all.jpg)
 
 
 ### Первый роутер (R1)
